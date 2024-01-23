@@ -1,0 +1,16 @@
+
+PROCEDURES TO PUSH CODES TO ONLINE
+
+1.git init
+2.git add .
+3.git commit -m"message"
+
+Note:commit =save
+4.link
+5.git push
+6.git push --set-upstream origin master
+7.enter username
+8.PASSWORD
+generate classic token 
+copy and paste it 
+
